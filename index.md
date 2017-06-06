@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/didan77/dandan.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+邸丹  
+web前端开发工程师   
+  女  ︳本科 ︳ 3年工作经验  ︳ 北京   
+13521477511 ︳13521477511@163.com  
 
-### Markdown
+ 
+  求职意向
+目标职位：	Web前端
+目标行业：	互联网
+期望薪资：	面谈
+期望地区：	北京
+到岗时间：	一周内
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+  自我评价
+	本人性格开朗，适应力强，自我认知良好！对自己的定位：主攻前端，了解各方面技能，不希望过于依赖别人，可以独立完成一些项目开发，高效解决问题。对工作的态度： 首先高效完成本职，其次追求完美，与其他同事互相交流提升。
 
-# Header 1
-## Header 2
-### Header 3
+  自我描述  
+▪ 熟悉HTML5/CSS3以及LESS和SASS等css预编器，有bootstrap开发经验； 
+▪ 熟练掌握移动端开发，熟悉Android，IOS平台及兼容问题；
+▪ 熟悉JavaScript、jQuery、zepto，并结合iScroll、swiper等常用插件/框架制作特定的网页效果； 
+▪ 熟悉ajax并有独立通过已定义接口完成前后台交互的能力，了解 Nodejs；  
+▪ 熟悉requireJS、commonJS等模块化规范，熟悉weinre、charles等调试工具，使用echarts插件绘制数据图表。
+▪ 熟悉VueJS、AngularJS、掌握官方API做过实际项目，了解es6，微信小程序，能够参与项目开发； 
 
-- Bulleted
-- List
+	     
+  工作经历   
+北京诺远控股有限公司
+web前端开发 | 主要职责:  	2015.09-2017.1
+▪ 根据ui设计图完成页面的制作以及产品原型图完成页面的交互功能； 
+▪ 负责解决不同浏览器兼容性问题以及不同尺寸手机终端浏览兼容； 
+▪ 优化网站前端性能，优化用户界面易用性，提高用户体验； 
+▪ 负责与后台开发人员配合，完成产品的整体开发和相关数据交互； 
+▪ 负责项目后期的维护与更新。 
 
-1. Numbered
-2. List
+北京祥云创想科技有限公司
+web前端开发 | 主要职责:  	2014.07-2015.08  
+▪ 和产品经理沟通并确定产品开发需求，保证产品的质量和开发进度； 
+▪ 负责项目中的页面排版，解决各主流浏览器的兼容问题，解决移动端设备的适配问题； 
+▪ 根据产品需求，分析并给出最优的页面前端结构解决方案并完成效果实现； 
+▪ 负责利用javascript及jQuery等完成动态页面设计，使用ajax技术把后台数据渲染到web页面； 
+▪ 使用gulp工具进行后期代码的打包压缩，并进行后期维护。 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+ 
+  教育经历  
+ 
+山西运城学院 	
+	本科 • 计算机科学与技术 	2014年毕业  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ 
+  项目经验  
+运动大咖（微信小程序）
+前端开发  
+简介：运动大咖，是一项专为运动达人以及想要变身的人群精心打造的App，且由我一人独立完成开发。它应用微信web来进行项目的开发，其中使用app.js文件编写小程序逻辑，app.json文件是进行小程序的公共设置，app.wxss来对文件进行页面样式的编写。三点合作并配置脚本文件跳转路由。最后通过小程序的request方法连接后台接口实现数据的渲染，提升用户体验！
+收获：首次用微信小程序去完成一整套开发，刚了解小程序的时候感觉很神奇，我们的生活都方便了很多，怀着好奇心去写的时候，也蛮费劲的。查了官网上很多的API，也运用了之前的很多逻辑，请教大牛……,也是一件值得期待的事情！收获颇多！
 
-### Jekyll Themes
+食货到了（移动端）
+前端开发
+简介：食货到是一家网络订餐平台为用户提供便捷服务极致体验，快速搜罗附近外卖，不用打电话直接预订等，还各种赠饮打折活动，优惠不断。这个项目使用了Html5和css3动画还有bootstrap的布局实现了页面的排版运用了webpack+vue搭建项目底层，vue切换路由以及mockjs数据模拟加载，使用了vuex数据管理封装组件实现多次重复使用最后使用glup压缩git工具管理代码。
+收获：在vue的探索道路中，学会了新的技能以及认识到了vue在数据操作方面的优势！
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/didan77/dandan.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+小诺理财（移动端）
+前端开发
+简介：小诺理财（移动端），手机逐渐成为我们不可离身的工具，在街上、超市、地铁上等，我们都会看到不同的职业人群刷着手机酷炫的页面，而这里小诺也升级了，完成了移动端的App，便于用户随时随地查看消息。移动端主要还是依靠HTML5+CSS3的结构搭建和动画效果，并且也应用到了angular路由框架，使用ui-router实现了页面的跳转，以及运用gulp自动化构建工具对sass编译、js合并压缩、css合并压缩。同时还考虑到不同手机设备的兼容问题，再与后台人员配合，完成产品的整体开发，并且加强项目后期的维护与更新，争取让每个使用的用户满意。 
+收获：在小诺的研发过程中：跟着项目团队一起研究，这个时候是正式运用angular去完成一些任务。是一款优秀的JS前端框架，尤其是其中的模块化、自动化双向数据绑定为我们开发提供了不少捷径，自己去发掘，对这门框架也有了一定的了解！
 
-### Support or Contact
+多彩换新（移动端） 
+前端开发
+简介：多彩换新是一个以家装市场为定位，专注于居家换新行业的服务型电商品牌，主要服务平台有官方网址、微信、App。在本项目的开发过程中，我们团队注重于负责首页，定制业，城市选择页，搜索页面的排版以及样式编写，其中使用了ajax来渲染页面，swiper框架实现图片的轮播以及iScroll实现页面的局部滚动、下拉下载数据，还有tab切换等一些组件。这样简单快捷的服务模式已经面向所有对家装后市场有所需求的消费者开放。
+收获：大众服务平台，有时候身边朋友也会用到这个软件。在这里想着重说一下swiper和iScroll框架，相对之前的组件来说，更加易于用户体验，而且挺高大上的！
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+老人频道（pc 端） 
+前端开发
+简介：老人频道主要是介绍老人养生，老人保健，老人疾病，老人心理等健康老人需要的知识。在这个提前将要进入老龄化的时代，身边的老人越老越多，一些症状也越来越普遍！与此同时老人频道为一些老人提供了不可磨灭的贡献，同时也减轻了不少儿女的担忧！老人频道的页面布局相对来说较简单，使用了HTML+CSS，一些交互效果用javascript和jQuery库来完成，同时也注重了各主流浏览器的兼容问题，代码的整合与优化，网站后期的维护与更新 。
+收获：在开发中，浏览器兼容问题还是值得去关注，jquery的理念‘写得少做得多’，很符合现在一些程序的开发！
+ 
+ 
+
+
+  培训经历
+2017/2 -- 2017/6
+北京八维教育
+培训课程：web前端开发
+培训地点：北京
+培训描述：培训的有vue、angular、node
+
