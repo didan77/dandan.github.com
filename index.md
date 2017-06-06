@@ -11,9 +11,9 @@ web前端开发工程师
 ## 自我描述  
 ▪ 熟悉HTML5/CSS3以及LESS和SASS等css预编器，有bootstrap开发经验； <br/>
 ▪ 熟练掌握移动端开发，熟悉Android，IOS平台及兼容问题；<br/>
-▪ 熟悉JavaScript、jQuery、zepto，并结合iScroll、swiper等常用插件/框架制作特定的网页效   果； <br/>
+▪ 熟悉JavaScript、jQuery、zepto，并结合iScroll、swiper等常用插件/框架制作特定的网页效果； <br/>
 ▪ 熟悉ajax并有独立通过已定义接口完成前后台交互的能力，了解 Nodejs；  <br/>
-▪ 熟悉requireJS、commonJS等模块化规范，熟悉weinre、charles等调试工具，使用echarts插件   绘制数据图表。<br/>
+▪ 熟悉requireJS、commonJS等模块化规范，熟悉weinre、charles等调试工具，使用echarts插件绘制数据图表。<br/>
 ▪ 熟悉VueJS、AngularJS、掌握官方API做过实际项目，了解es6，微信小程序，能够参与项目开发； <br/>
 
 	     
