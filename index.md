@@ -4,12 +4,7 @@
 ## 自我评价
 　　本人性格开朗，适应力强，自我认知良好！对自己的定位：主攻前端，了解各方面技能，不希望过于依赖别人，可以独立完成一些项目开发，高效解决问题。对工作的态度： 首先高效完成本职，其次追求完美，与其他同事互相交流提升。
 ## 自我描述  
-　　▪ 熟悉HTML5/CSS3以及LESS和SASS等css预编器，有bootstrap开发经验； <br/>
-　　▪ 熟练掌握移动端开发，熟悉Android，IOS平台及兼容问题；<br/>
-　　▪ 熟悉JavaScript、jQuery、zepto，并结合iScroll、swiper等常用插件/框架制作特定的网页效果； <br/>
-　　▪ 熟悉ajax并有独立通过已定义接口完成前后台交互的能力，了解 Nodejs；  <br/>
-　　▪ 熟悉requireJS、commonJS等模块化规范，熟悉weinre、charles等调试工具，使用echarts插件绘制数据图表。<br/>
-　　▪ 熟悉VueJS、AngularJS、掌握官方API做过实际项目，了解es6，微信小程序，能够参与项目开发； <br/>
+　　精通HTML5+CSS3技术进行页面布局以及LESS和SASS等CSS预编器，能够解决移动端的适配问题，熟练使用javascript、jQuery、zepto等，并结合iScroll、swiper等常用插件/框架制作特定的网页效果，熟悉requireJS、commonJS等模块化规范，可以使用weinre、charles等调试工具以及echarts插件绘制数据图表，提高开发效率；熟悉gulp、webpack自动化开发工具，mock数据的应用，熟悉ajax并有独立通过已定义接口完成前后台交互的能力，对node有一定的了解，熟悉angular、vue框架，了解react以及微信小程序。
 ## 工作经历   
 ### 北京诺远控股有限公司　　（web前端开发）　　　2015.09-2017.1<br/>
 ### 北京祥云创想科技有限公司（web前端开发）　　　2014.07-2015.08  　　　　
